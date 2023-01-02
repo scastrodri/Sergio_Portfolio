@@ -7,7 +7,7 @@ Examples of some projects using Python.
 * Print a legend that shows up the amount found of the specific word.
 * With the faces detected create a contact sheet to show every one of them.
 ## A sample image
-![](https://github.com/scastrodri/Sergio_Portfolio/blob/main/images/a-0.png)
+![](https://github.com/scastrodri/Sergio_Portfolio/blob/main/images/a-0.jpg)
 ## Faces found in the sample image
 ![](https://github.com/scastrodri/Sergio_Portfolio/blob/main/images/faces_in_a-0.png)
 
@@ -28,7 +28,7 @@ Much of the filters here exists are built-in functions that use numpy arrays, bu
 * Some basic filters as grayscale, black and white, sepia tone, neon filter, negative filter.
 * A little bit of rotating, scaling and blending.
 * Image Kernel for cleaning up noise (Replace every pixel with the median pixel value of the 8 pixels around it).
-![](https://github.com/scastrodri/Sergio_Portfolio/blob/main/images/all_filters.png)
+![](https://github.com/scastrodri/Sergio_Portfolio/blob/main/images/all_filters.jpg)
 ![](https://github.com/scastrodri/Sergio_Portfolio/blob/main/images/noisy_non-noisy.png)
 
 # [Substitution Cipher](https://github.com/scastrodri/Python_projects/tree/main/Substitution_Cipher)
