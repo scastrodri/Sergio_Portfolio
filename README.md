@@ -1,4 +1,3 @@
-# Sergio's Portfolio
 Some projects using Python.
 
 
