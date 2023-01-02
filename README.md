@@ -1,5 +1,5 @@
-# Sergio_Portfolio
-Examples of some projects using Python.
+# Sergio's Portfolio
+Some projects using Python.
 
 
 #  [Found faces and text in zip files of images](https://github.com/scastrodri/Python_projects/tree/main/Faces_and_text_%20in_zip)
