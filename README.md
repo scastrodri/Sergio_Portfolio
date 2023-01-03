@@ -37,6 +37,21 @@ Much of the filters here exists are built-in functions that use numpy arrays, bu
 ## Kernel for cleaning up noise
 <img src="./images/noisy_non-noisy.png" alt="noisy_non-noisy">
 
+
+# [Exploring Common Words and SETI](https://github.com/scastrodri/Python_projects/tree/main/Exploring_Common_Words)
+* Graph the frequency of the words on the Y axis against the rank of the words on the X axis. It would should see a pretty dramatic (exponential) curve. Its also not very useful because a few very large values dwarf all of the small # values.
+* Graph the frequency of the words on the Y axis against the rank of the words on the X axis. This one will be in a log-log scale.
+* Which of the words when spelled forward are also on the list when spelled backward?
+* How many new words can be reversed if you you add an ‘s’ on the end?
+* Finally lets look at the distribution of the different parts of speech in this 5000 word dataset.
+## Frequency of the words
+<img src="./images/Distribution of the words.png" alt="Frequency of the words">
+
+## Frequency of the words in a log-log scale
+<img src="./images/Distribution of the words log.png" alt="Frequency of the words log">
+## Distribution of the different parts of speech
+<img src="./images/Distribution of the different parts of speech.png" alt="Distribution of the different parts of speech">
+
 # [Substitution Cipher](https://github.com/scastrodri/Python_projects/tree/main/Substitution_Cipher)
 * A script that will encrypt the string referenced by the variable plaintext using the Caesar cipher with a shift of 13.
 * A script that will encrypt the plaintext using a key.
