@@ -12,18 +12,10 @@ Some projects using Python.
 <img src="./images/faces_in_a-0.png" alt="faces_in_a-0">
 
 
-# [Graphing data with the Turtle module](https://github.com/scastrodri/Python_projects/tree/main/Graphic_Turtle)
-* There are many tools to graph data, but let's 'code' our own graphs from scratch using the turtle module.
-* The data used is part of [Kiva](http://kiva.org/) that is an international nonprofit, founded in 2005 and based in San Francisco, with a mission to connect people 
-through lending to alleviate poverty.
-* The first one will be a bar chart that shows the total amount of loans for country.
-* The second one is a scatter plot that prints the loan amount vs the total number of lenders.
-* The last one is a histogram (using the bar chart) that is used to display 10 differents 'buckets' that are 'categories' from the loan amount.
-## Bar chart
-<img src="./images/Bar-chart.png" alt="Bar-chart">
-
-## scatter plot
-<img src="./images/Sactterplot.png" alt="Sactterplot">
+#  [Sentiment Analysis of Climate Change Tweets](https://github.com/scastrodri/Python_projects/tree/main/Sentiment_Analysis_of_Climate_Change_Tweets)
+* Getting into the Bayes Theorem through an example of cookies and bowls.
+* Going from the cookies example through the tweet classification creating a Bayesian model for tweets as a base parameter.
+* 'Smoothing' the model for those words that couldn't be parametrized in the initial model.
 
 
 # [Image Processing](https://github.com/scastrodri/Python_projects/tree/main/Image_Processing)
@@ -51,6 +43,21 @@ Much of the filters here exists are built-in functions that use numpy arrays, bu
 <img src="./images/Distribution of the words log.png" alt="Frequency of the words log">
 ## Distribution of the different parts of speech
 <img src="./images/Distribution of the different parts of speech.png" alt="Distribution of the different parts of speech">
+
+
+# [Graphing data with the Turtle module](https://github.com/scastrodri/Python_projects/tree/main/Graphic_Turtle)
+* There are many tools to graph data, but let's 'code' our own graphs from scratch using the turtle module.
+* The data used is part of [Kiva](http://kiva.org/) that is an international nonprofit, founded in 2005 and based in San Francisco, with a mission to connect people 
+through lending to alleviate poverty.
+* The first one will be a bar chart that shows the total amount of loans for country.
+* The second one is a scatter plot that prints the loan amount vs the total number of lenders.
+* The last one is a histogram (using the bar chart) that is used to display 10 differents 'buckets' that are 'categories' from the loan amount.
+## Bar chart
+<img src="./images/Bar-chart.png" alt="Bar-chart">
+
+## scatter plot
+<img src="./images/Sactterplot.png" alt="Sactterplot">
+
 
 # [Substitution Cipher](https://github.com/scastrodri/Python_projects/tree/main/Substitution_Cipher)
 * A script that will encrypt the string referenced by the variable plaintext using the Caesar cipher with a shift of 13.
